@@ -1,0 +1,13 @@
+{
+  "name": "xoc-tracker",
+  "version": "3.0.0",
+  "description": "XoC Wanz v1.0 - Tracker Device",
+  "main": "server-https.js",
+  "scripts": {
+    "start": "node server-https.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "selfsigned": "^2.4.1"
+  }
+}

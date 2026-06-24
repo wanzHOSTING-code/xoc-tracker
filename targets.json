@@ -1,0 +1,37 @@
+[
+  {
+    "targetId": "target_1782290493557_5g66",
+    "platform": "Linux armv81",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+    "language": "id",
+    "screenWidth": 424,
+    "screenHeight": 942,
+    "waktu": "2026-06-24T08:41:33.567Z",
+    "ip": "10.92.195.110",
+    "online": true,
+    "lastPhoto": "photo_target_1782290493557_5g66_1782290532473.jpg",
+    "location": {
+      "lat": -7.6528048,
+      "lng": 107.8852304,
+      "accuracy": 400
+    }
+  },
+  {
+    "targetId": "target_1782291716010_qz2a",
+    "platform": "Linux armv81",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+    "language": "id",
+    "screenWidth": 424,
+    "screenHeight": 942,
+    "waktu": "2026-06-24T09:01:56.012Z",
+    "nama": "Sayangku",
+    "ip": "10.92.195.110",
+    "online": true,
+    "lastPhoto": "photo_target_1782291716010_qz2a_1782291841740.jpg",
+    "location": {
+      "lat": -7.6493683,
+      "lng": 107.88805,
+      "accuracy": 20.100000381469727
+    }
+  }
+]
